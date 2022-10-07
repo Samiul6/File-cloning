@@ -1,6 +1,7 @@
 # File-cloning
 This tool fast file cloning bro so enjoy 😎
-"
+
+
 pkg install git
 
 pip install rich
